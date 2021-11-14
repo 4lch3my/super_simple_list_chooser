@@ -1,9 +1,6 @@
 @echo off
 
-title Alice Terminal
-cls
-node src/alice.js
-
+title List chooser
 
 :begin  
 
